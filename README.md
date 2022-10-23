@@ -1,1 +1,1 @@
-# BookCatalogizationShittyPrjct
+# BookCatalogizationApplication
